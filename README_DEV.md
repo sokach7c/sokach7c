@@ -7,9 +7,9 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/assets/images/developer.svg" height="225px" />
-    <img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/assets/images/coding.gif" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -17,9 +17,9 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
@@ -77,28 +77,28 @@
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://raw.githubusercontent.com/sokach7c/sokach7c/refs/heads/main/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sokach7c/sokach7c/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
